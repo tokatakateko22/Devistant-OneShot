@@ -1,6 +1,4 @@
-# Devistant
-
-Devistant is an automated SDLC (Software Development Life Cycle) workflow tool that leverages multiple AI agents and LLMs to guide you through requirements analysis, planning, project management, use case generation, class diagramming, database design, and documentation for software projects.
+Devistant is an automated SDLC (Software Development Life Cycle) workflow tool that leverages multiple AI agents and LLMs to guide you through requirements analysis, planning, project management, use case generation, class diagramming, database design, and documentation for software projects all in one-shot .
 
 ## Features
 - **Multi-phase SDLC automation**: Covers requirements, planning, project management, use cases, class diagrams, database design, and documentation.
@@ -49,6 +47,3 @@ Devistant is an automated SDLC (Software Development Life Cycle) workflow tool t
   - Ensure the Ollama server is running and the required models are pulled.
 - **Other errors**
   - Check that all dependencies are installed and compatible with your Python version.
-
-## License
-MIT License 
