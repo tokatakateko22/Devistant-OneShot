@@ -1,4 +1,4 @@
-Devistant is an automated SDLC (Software Development Life Cycle) workflow tool that leverages multiple AI agents and LLMs to guide you through requirements analysis, planning, project management, use case generation, class diagramming, database design, and documentation for software projects.
+Devistant is an automated SDLC (Software Development Life Cycle) workflow tool that leverages multiple AI agents and LLMs to guide you through requirements analysis, planning, project management, use case generation, class diagramming, database design, and documentation for software projects all in one-shot .
 
 ## Features
 - **Multi-phase SDLC automation**: Covers requirements, planning, project management, use cases, class diagrams, database design, and documentation.
